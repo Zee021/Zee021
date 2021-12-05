@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **improving my QA skills** 
 
-- 🌱 I’m currently learning **Software testing (manual + automation)** at **www.itbootcamp.rs**.
+- 🌱 I recently (15.10.2021.) finished **Software testing (manual + automation)** at **www.itbootcamp.rs**.
 
 - 📫 How to reach me **zavisa.sauer@gmail.com**
 
